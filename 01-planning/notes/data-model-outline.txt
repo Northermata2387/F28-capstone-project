@@ -1,0 +1,25 @@
+Step 1: Features (Brainstorm a list all the features you think the website will need)
+
+
+
+Step 2: MVP (Take your features and list the main features you will need to get the webiste up and running for basic use)
+
+
+
+Step 3: Table Ideas (name each table and a gemeral description)
+
+
+
+Step 4: Relationships (list the relationships of ach table)
+“one-to-one”:
+
+“one-to-many”:
+
+“many-to-many”:
+
+
+
+Step 5: layout (create your list of tables with each sub section needed)
+
+
+

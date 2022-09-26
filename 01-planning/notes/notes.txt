@@ -1,0 +1,54 @@
+Below can be used for CSS:
+display: flex; justify-content: center;
+
+F28 Capstone SDLC
+Planning
+    - Work Through the checklist to breifly define what I'm planning to do with the project
+
+Analysis of Requirements
+    - Review previous labs and lectures that use similar technologies and packages
+    - Software
+        # VSCode to acutally write my code
+        # Postman to test endpoints
+        # Express
+        # Cors
+        # Axios
+        # Node.js
+        # If I have time
+            * Heroku for PostgreSQL
+            * Heroku for hosting
+            * Sequelize for db connection
+Design
+    - Create a figma for main webpage
+        # Use coolers to find color scheme
+        # Look at other sites for inspiration
+
+    - BACKEND
+        # Server solder/file
+            * Express
+            * Cors
+            * REST endpoints  
+                = Get plants
+                = GET plants by name
+                = Add plant to My List
+                = Delete plant to My List
+        # Controller file
+            * Fucntions that are tied to REST endpoints    
+        # db.json
+            * plant ID
+            * plant name
+            * plant URL
+                ////////////?
+
+    - FRONTEND
+        # Client Folder
+            * index.html
+                = including the axios link(s)
+            * index.css
+                = styling coded in this file
+            * index.js
+                = axios request(s) in this file
+
+Implementation
+Testing and Integration
+Maintenance
