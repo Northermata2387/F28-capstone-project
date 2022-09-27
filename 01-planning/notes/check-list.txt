@@ -7,7 +7,7 @@ The required items are starred.
 Planning
 [project includes a wireframe for each view]
 [project includes a list of MVP features *]
-[project includes a data model]
+project includes a data model
 
 MVP
 [app has at least 3 main features *]
@@ -25,8 +25,8 @@ styling includes animations
 
 Server
 [app includes a GET endpoint and handler function *]
-app includes a POST endpoint and handler function *
-[app includes a PUT endpoint and handler function]
+[app includes a POST endpoint and handler function *]
+app includes a PUT endpoint and handler function
 [app includes a DELETE endpoint and handler function]
 app utilizes Sequelize
 [project includes at least 1 controller file]

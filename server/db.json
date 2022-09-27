@@ -1,0 +1,168 @@
+[
+    {
+        "id": 1,
+        "name": "Rocky Mountain Columbine", 
+        "image": "www.gardenia.net/storage/app/public/uploads/images/detail/botanikfoto-473010-L.webp",
+        "type": "Perennial", 
+        "family": "Ranunculus",
+        "zones": "3 to 8",
+        "sun": "Sun/part shade",
+        "plantFriends": ["Allium", "Daylily", "Foxglove"],
+        "insectFriends": ["Sawfly", "Caterpiller", "Aphid"]
+    },
+    {
+        "id": 2,
+        "name": "Russian Sage", 
+        "image": "www.bluestoneperennials.com/img/PEBJ/650/PEBJ_0_Perovskia_Blue_Jean_Baby1_wg.1544110011.jpg",
+        "type": "Perennial", 
+        "family": "Mint",
+        "zones": "4 to 9",
+        "sun": "Full sun",
+        "plantFriends": ["Coneflower", "Globe thistle"],
+        "insectFriends": ["Bees"]
+    },
+    {
+        "id": 3,
+        "name": "Yellow Alyssum", 
+        "image": "gardenerspath.com/wp-content/uploads/2022/03/Mountain-Alyssum-Growing-in-Bright-Sunshine-Feature.jpg",
+        "type": "Perennial", 
+        "family": "Brassicaceae",
+        "zones": "3 to 7",
+        "sun": "Full sun",
+        "plantFriends": ["Potatoes", "Broccoli"],
+        "insectFriends": ["Pirate bugs", "Parasitic wasps", "Hover flies"]
+    },
+    {
+        "id": 4,
+        "name": "Bronze Fennel", 
+        "image": "cdn.shopify.com/s/files/1/0249/6134/products/bronze_fennel_429x600.jpg?v=1637882013",
+        "type": "Perennial", 
+        "family": "Umbellifer",
+        "zones": "5 to 11",
+        "sun": "Full sun",
+        "plantFriends": ["Dill", "Tomato", "Basil"],
+        "insectFriends": ["Aphids", "Cutworm", "Armyworm"]
+    },
+    {
+        "id": 5,
+        "name": "Zinnia", 
+        "image": "www.americanmeadows.com/media/catalog/product/z/i/zinnia-dahlia-flowered-meadow_1_1.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=&width=",
+        "type": "Annual", 
+        "family": "Daisy",
+        "zones": "3 to 10",
+        "sun": "Full sun",
+        "plantFriends": ["Tomato", "Pepper"],
+        "insectFriends": ["Aphids", "Caterpillars", "Slugs"]
+    },
+    {
+        "id": 6,
+        "name": "Canada Goldenrod", 
+        "image": "www.picturethisai.com/wiki-image/1080/153846660592566302.jpeg",
+        "type": "Perennial", 
+        "family": "Daisy",
+        "zones": "3 to 9",
+        "sun": "Full sun",
+        "plantFriends": ["Sunflowers", "Coneflowers", "Salvias"],
+        "insectFriends": ["Beetles", "Flies", "Bees"]
+    },
+    {
+        "id": 7,
+        "name": "Black-eyed Susan", 
+        "image": "cdn.shopify.com/s/files/1/0212/1030/0480/products/21.jpg?v=1659465163",
+        "type": "Perennial", 
+        "family": "Daisy",
+        "zones": "3 to 9",
+        "sun": "Full sun",
+        "plantFriends": ["Zinnias", "Echinacea", "Hibiscus"],
+        "insectFriends": ["Jagged ambush bugs"]
+    },
+    {
+        "id": 8,
+        "name": "Wax Currant", 
+        "image": "lh3.googleusercontent.com/Nr3UcAc37ze9OsKE0YFNGUMSBHpHbZoafNFSYqZyUqUuQOxOTivCglJspVanGIAJxEtAgmZEMU5evSIRSmU=s580",
+        "type": "Shrub", 
+        "family": "Grossulariaceae",
+        "zones": "5 to 8",
+        "sun": "Sun/part shade",
+        "plantFriends": ["Chamomile", "Chives", "Marigolds"],
+        "insectFriends": ["Currant worm", "Fruit flies"]
+    },
+    {
+        "id": 9,
+        "name": "Chokecherry", 
+        "image": "i1.wp.com/practicalselfreliance.com/wp-content/uploads/2018/09/Foraging-for-Chokecherries-2-of-5.jpg?resize=600%2C438&ssl=1",
+        "type": "Perennial", 
+        "family": "Rose",
+        "zones": "2 to 7",
+        "sun": "Sun/part shade",
+        "plantFriends": ["Sassafras", "Staghorn sumac", "Goldenrod"],
+        "insectFriends": ["Caterpillar", "Aphids"]
+    },
+    {
+        "id": 10,
+        "name": "Three-leaf Sumac", 
+        "image": "wyomingplantcompany.com/wp-content/uploads/2014/01/Rhus-trilobata-Matt-Lavin.jpg",
+        "type": "Shrub", 
+        "family": "Anacardiaceae",
+        "zones": "4 to 8",
+        "sun": "Full sun",
+        "plantFriends": ["Sumac", "Redbud", "Wild plum", "Ninebark"],
+        "insectFriends": ["Butterflies", "Moths", "Caterpillars"]
+    },
+    {
+        "id": 11,
+        "name": "Prairie Coneflower", 
+        "image": "www.americanmeadows.com/media/catalog/product/r/a/ratibida-pinnata-1.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=560&width=560&canvas=560:560",
+        "type": "Perennial", 
+        "family": "Aster",
+        "zones": "4 to 8",
+        "sun": "Full sun",
+        "plantFriends": ["Lavender", "Oregano", "Goldenrod"],
+        "insectFriends": ["Leaf beetles", "Japanese beetles", "Fruit flies"]
+    },
+    {
+        "id": 12,
+        "name": "Bee Balm", 
+        "image": "www.almanac.com/sites/default/files/users/AlmanacStaffArchive/bee-balm-2413963_1920_full_width.jpg",
+        "type": "Perennial", 
+        "family": "Mint",
+        "zones": "3 to 9",
+        "sun": "Full sun",
+        "plantFriends": ["Squash", "Tomatoes", "Roses"],
+        "insectFriends": ["Bumblebee", "Butterflies"]
+    },
+    {
+        "id": 13,
+        "name": "Purple Prairie Clover", 
+        "image": "upload.wikimedia.org/wikipedia/commons/2/2e/Dalea_purpurea_Arkansas.jpg",
+        "type": "Perennial", 
+        "family": "Legume",
+        "zones": "3 to 8",
+        "sun": "Full sun",
+        "plantFriends": ["Leadplant", "Thimbleweed", "milkweed"],
+        "insectFriends": ["Bees", "Butterflies"]
+    },
+    {
+        "id": 14,
+        "name": "Showy Milkweed", 
+        "image": "www.everwilde.com/media/1000/Asclepias-speciosa-01.gif",
+        "type": "Perennial", 
+        "family": "Dogbane",
+        "zones": "4 to 9",
+        "sun": "Sun/part sun",
+        "plantFriends": ["Verbena", "Blue Tweedia"],
+        "insectFriends": ["Monarch Butterflies"]
+    },
+    {
+        "id": 15,
+        "name": "Prairie Sage", 
+        "image": "www.everwilde.com/media//1000/resized/Artemisia-ludoviciana-01_medium.gif",
+        "type": "Perennial", 
+        "family": "Daisy",
+        "zones": "4 to 8",
+        "sun": "Full sun",
+        "plantFriends": ["Broccoli", "Cauliflower"],
+        "insectFriends": ["Grasshopers", "Butterflies"]
+    }
+
+]
