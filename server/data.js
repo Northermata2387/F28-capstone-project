@@ -7,7 +7,7 @@ const plants = [
         family: 'Ranunculus',
         zones: 3-8,
         sun: 'Sun/part shade',
-        plantFriends: ['Allium', 'Daylily', 'Foxglove', 'Iris'],
+        plantFriends: ['Allium', 'Daylily', 'Foxglove'],
         insectFriends: ['Sawfly', 'Caterpiller', 'Aphid']
     }, 
     {
@@ -18,13 +18,13 @@ const plants = [
         family: 'Mint',
         zones: 4-9,
         sun: 'Full sun',
-        plantFriends: ['Coneflower', 'Globe thistle', 'Verbena'],
+        plantFriends: ['Coneflower', 'Globe thistle'],
         insectFriends: ['Bees']
     }, 
     {
         id: 2,
         name: 'Yellow Alyssum', 
-        imgAddress: 'https://www.everwilde.com/media/1000/Alyssum-saxatile.gif',
+        imgAddress: 'https://gardenerspath.com/wp-content/uploads/2022/03/Mountain-Alyssum-Growing-in-Bright-Sunshine-Feature.jpg',
         type: 'Perennial', 
         family: 'Brassicaceae',
         zones: 3-7,
@@ -74,7 +74,7 @@ const plants = [
         zones: 3-9,
         sun: 'Full sun',
         plantFriends: ['Zinnias', 'Globe thistle', 'Echinacea', 'Hibiscus'],
-        insectFriends: ['Jagged ambush bugs', 'blister beetles']
+        insectFriends: ['Jagged ambush bugs']
     }, 
     {
         id: 7,
@@ -102,7 +102,7 @@ const plants = [
         id: 9,
         name: 'Three-leaf Sumac', 
         imgAddress: 'https://wyomingplantcompany.com/wp-content/uploads/2014/01/Rhus-trilobata-Matt-Lavin.jpg',
-        type: 'Native shrub', 
+        type: 'Shrub', 
         family: 'Anacardiaceae',
         zones: 4-8,
         sun: 'Full sun',
@@ -149,8 +149,8 @@ const plants = [
         type: 'Perennial', 
         family: 'Dogbane',
         zones: 4-9,
-        sun: 'sun/part sun',
-        plantFriends: ['Verbena', 'Blue Tweedia', 'Purple Salvia', 'Mistflower', 'Milkweed'],
+        sun: 'Sun/part sun',
+        plantFriends: ['Verbena', 'Blue Tweedia'],
         insectFriends: ['Monarch Butterflies']
     }, 
     {
@@ -161,7 +161,7 @@ const plants = [
         family: 'Daisy',
         zones: 4-8,
         sun: 'Full sun',
-        plantFriends: ['Broccoli', 'Cauliflower', 'Cabbage', 'Carrots'],
+        plantFriends: ['Broccoli', 'Cauliflower'],
         insectFriends: ['Grasshopers', 'Butterflies']
     }, 
     {
@@ -172,7 +172,7 @@ const plants = [
         family: 'Daisy',
         zones: 3-7,
         sun: 'Sun/part shade',
-        plantFriends: ['Brassicas', 'Tomatoes', 'Beans', 'Spinach'],
+        plantFriends: ['Brassicas', 'Tomatoes'],
         insectFriends: ['Bees', 'Beetles', 'Butterflies']
     }, 
 
