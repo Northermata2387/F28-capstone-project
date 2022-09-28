@@ -13,15 +13,21 @@ app.use(cors())
 
 // Destructure REST Function(s)
 const {
-    getPlants
+    getPlants,
+    addPlant,
+    deletePlant
 } = require('./controller')
 
 // Endpoint(s)
 app.get('/getPlants', getPlants)
+app.post('/addPlant', addPlant)
+app.delete('/deletePlant/:id', deletePlant)
 
 
 //  site listens to specified port 
 app.listen(6235, () => console.log('My Plant List on port 6235'))
 
 
-// Check through Postman byt GET http://localhost:6235/getPlants to verify GET REST function
+// Postman Check GET http://localhost:6235/getPlants
+// Postman Check POST http://localhost:6235/addPlant body - raw - JSONN 
+// Postman Check DELETE http://localhost:6235/deletePlant/(id#)
