@@ -8,7 +8,8 @@
         "zones": "3 to 8",
         "sun": "Sun/part shade",
         "plantFriends": ["Allium", "Daylily", "Foxglove"],
-        "insectFriends": ["Sawfly", "Caterpiller", "Aphid"]
+        "insectFriends": ["Sawfly", "Caterpiller", "Aphid"],
+        "myZone": 6
     },
     {
         "id": 2,
@@ -19,7 +20,8 @@
         "zones": "4 to 9",
         "sun": "Full sun",
         "plantFriends": ["Coneflower", "Globe thistle"],
-        "insectFriends": ["Bees"]
+        "insectFriends": ["Bees"],
+        "myZone": 6
     },
     {
         "id": 3,
@@ -30,7 +32,8 @@
         "zones": "3 to 7",
         "sun": "Full sun",
         "plantFriends": ["Potatoes", "Broccoli"],
-        "insectFriends": ["Pirate bugs", "Parasitic wasps", "Hover flies"]
+        "insectFriends": ["Pirate bugs", "Parasitic wasps", "Hover flies"],
+        "myZone": 6
     },
     {
         "id": 4,
@@ -41,7 +44,8 @@
         "zones": "5 to 11",
         "sun": "Full sun",
         "plantFriends": ["Dill", "Tomato", "Basil"],
-        "insectFriends": ["Aphids", "Cutworm", "Armyworm"]
+        "insectFriends": ["Aphids", "Cutworm", "Armyworm"],
+        "myZone": 6
     },
     {
         "id": 5,
@@ -52,7 +56,8 @@
         "zones": "3 to 10",
         "sun": "Full sun",
         "plantFriends": ["Tomato", "Pepper"],
-        "insectFriends": ["Aphids", "Caterpillars", "Slugs"]
+        "insectFriends": ["Aphids", "Caterpillars", "Slugs"],
+        "myZone": 6
     },
     {
         "id": 6,
@@ -63,7 +68,8 @@
         "zones": "3 to 9",
         "sun": "Full sun",
         "plantFriends": ["Sunflowers", "Coneflowers", "Salvias"],
-        "insectFriends": ["Beetles", "Flies", "Bees"]
+        "insectFriends": ["Beetles", "Flies", "Bees"],
+        "myZone": 6
     },
     {
         "id": 7,
@@ -74,7 +80,8 @@
         "zones": "3 to 9",
         "sun": "Full sun",
         "plantFriends": ["Zinnias", "Echinacea", "Hibiscus"],
-        "insectFriends": ["Jagged ambush bugs"]
+        "insectFriends": ["Jagged ambush bugs"],
+        "myZone": 6
     },
     {
         "id": 8,
@@ -85,7 +92,8 @@
         "zones": "5 to 8",
         "sun": "Sun/part shade",
         "plantFriends": ["Chamomile", "Chives", "Marigolds"],
-        "insectFriends": ["Currant worm", "Fruit flies"]
+        "insectFriends": ["Currant worm", "Fruit flies"],
+        "myZone": 6
     },
     {
         "id": 9,
@@ -96,7 +104,8 @@
         "zones": "2 to 7",
         "sun": "Sun/part shade",
         "plantFriends": ["Sassafras", "Staghorn sumac", "Goldenrod"],
-        "insectFriends": ["Caterpillar", "Aphids"]
+        "insectFriends": ["Caterpillar", "Aphids"],
+        "myZone": 6
     },
     {
         "id": 10,
@@ -107,7 +116,8 @@
         "zones": "4 to 8",
         "sun": "Full sun",
         "plantFriends": ["Sumac", "Redbud", "Wild plum", "Ninebark"],
-        "insectFriends": ["Butterflies", "Moths", "Caterpillars"]
+        "insectFriends": ["Butterflies", "Moths", "Caterpillars"],
+        "myZone": 6
     },
     {
         "id": 11,
@@ -118,7 +128,8 @@
         "zones": "4 to 8",
         "sun": "Full sun",
         "plantFriends": ["Lavender", "Oregano", "Goldenrod"],
-        "insectFriends": ["Leaf beetles", "Japanese beetles", "Fruit flies"]
+        "insectFriends": ["Leaf beetles", "Japanese beetles", "Fruit flies"],
+        "myZone": 6
     },
     {
         "id": 12,
@@ -140,7 +151,8 @@
         "zones": "3 to 8",
         "sun": "Full sun",
         "plantFriends": ["Leadplant", "Thimbleweed", "milkweed"],
-        "insectFriends": ["Bees", "Butterflies"]
+        "insectFriends": ["Bees", "Butterflies"],
+        "myZone": 6
     },
     {
         "id": 14,
@@ -151,7 +163,8 @@
         "zones": "4 to 9",
         "sun": "Sun/part sun",
         "plantFriends": ["Verbena", "Blue Tweedia"],
-        "insectFriends": ["Monarch Butterflies"]
+        "insectFriends": ["Monarch Butterflies"],
+        "myZone": 6
     },
     {
         "id": 15,
@@ -162,7 +175,8 @@
         "zones": "4 to 8",
         "sun": "Full sun",
         "plantFriends": ["Broccoli", "Cauliflower"],
-        "insectFriends": ["Grasshopers", "Butterflies"]
+        "insectFriends": ["Grasshopers", "Butterflies"],
+        "myZone": 6
     }
 
 ]
