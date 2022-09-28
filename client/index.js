@@ -15,6 +15,9 @@ const getAllPlants = () => {
     })
 }
 
+// invocation
+getAllPlants()
+
 // Loop over the array
 const displayPlants = (arr) => {
     for(let i = 0; i < arr.length; i++) {
@@ -28,16 +31,14 @@ const createPlantCard = (plant) => {
     plantCard.classList.add('plant-card')
 
     plantCard.innerHTML = `
+        <button>
         <img src=${plant.image} alt='plant image'/>
         <p>${plant.name}</p>
         <p>${plant.type}</p>
         <p>${plant.zones}</p>
-        <section>
-            <button>Destroy</button>
-        </section>
+        </button>
     `
     showPlants.appendChild(plantCard)
 }
 
-// invocation
-getAllPlants()
+
