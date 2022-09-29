@@ -1,10 +1,17 @@
 
 const baseURL = 'http://localhost:6235'
 
-// Return Element within the document that matches the query selector
-const showPlants = document.querySelector('#plantDisplay')
-// Return Element within the document that matches the query selector
-const addButton = document.querySelector('#addPlant')
+// Return plant array within the document that matches the query selector
+const showPlants = document.querySelector('#plantDisplay');
+// Return zone temperature within the document that matches the query selector
+const addButton = document.querySelector('#addPlant');
+// Return add new plant within the document that matches the query selector
+const addMyPlantListBtn = document.querySelector('#addMyPlantList');
+// Return add new plant within the document that matches the query selector
+const searchBar = document.getElementById('searchBarInput');
+
+// epmty array for esearch funtion
+let plantCardName = [];
 
 // Axios request to GET array for plant cards
 const getAllPlants = () => {
@@ -16,17 +23,17 @@ const getAllPlants = () => {
     .catch((err) => {
         console.log(err)
     })
-}
+};
 
 // invocation for GET array
 getAllPlants()
 
-// Loop over the GET pklant array
+// Loop over the GET plant array
 const displayPlants = (arr) => {
     for(let i = 0; i < arr.length; i++) {
         createPlantCard(arr[i])
     }
-} 
+};
 
 // Create plant card for each group in the array
 const createPlantCard = (plant) => {
@@ -36,19 +43,17 @@ const createPlantCard = (plant) => {
     plantCard.innerHTML = `
         <button onclick="deletePlant(${plant.id})"
         style="
-            border: 1px solid #ddd;
-            border-radius: 4px;
-            padding: 5px;
             width: 175px;
-        ">
+            border: 0;
+        "
+        >
         <img src=${plant.image} alt='plant image'
         style="
-            border: 1px solid #ddd;
-            border-radius: 4px;
-            padding: 5px;
-            width: 150px;
-            height: 150px;
+            width: 169px;
+            height: 156px;
             object-fit: cover;
+            border-radius: 5px;
+            margin: 0px;
         "
         />
         <p>${plant.name}</p>
@@ -57,7 +62,7 @@ const createPlantCard = (plant) => {
         </button>
     `
     showPlants.appendChild(plantCard)
-}
+};
 
 // Axios request to Delete plant card
 const deletePlant = (id) => {
@@ -70,7 +75,7 @@ const deletePlant = (id) => {
     .catch((err) => {
         console.log(err)
     })
-}
+};
 
 // Axios request to Update my zone
 const updateMyZone = (id, type) => {
@@ -83,7 +88,7 @@ const updateMyZone = (id, type) => {
     .catch((err) => {
         console.log(err)
     })
-}
+};
 
 // Axios request to add new plant to main plants list
 const addPlant = () => {
@@ -124,10 +129,17 @@ const addPlant = () => {
         .catch((err) => {
             console.log(err)
         })
-}
+};
 
 // event listener for add new plant
-addButton.addEventListener('click', addPlant)
+addButton.addEventListener('click', addPlant);
+
+// event listener for searchbar
+searchBar.addEventListener('keyup', (e) => {
+    console.log(e.target.value)
+});
+
+
 
 
 

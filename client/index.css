@@ -1,9 +1,14 @@
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: #F6FFEF;
+}
+
 .my-plant-list-banner {
     display: flex;
     gap: 33%;
     flex-direction: row;
     flex-wrap: wrap;
-    height: ;
+    margin: 30px;
   }
 
 .submit-new-plant {
@@ -20,9 +25,25 @@
     flex-wrap: wrap;
   }
 
+.hide {
+    display: none;
+}
+
 .footer-details {
     display: flex;
     gap: 5px;
     flex-direction: row;
     flex-wrap: wrap;
   }
+
+button {
+    border: 0;
+    border-radius: 5px;
+    background-color: #BAD29F;
+}
+
+button:hover {
+    background-color:#FFA928;
+    transition: 0.5s;
+    border: 0;
+}
