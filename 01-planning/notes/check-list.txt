@@ -32,7 +32,7 @@ app utilizes Sequelize
 [project includes at least 1 controller file]
 
 Database
-[project includes a seed file or function]
+project includes a seed file or function
 app uses 1 table
 app uses 1+ additional tables
 app uses a foreign key and join

@@ -163,10 +163,5 @@
         "sun": "Full sun",
         "plantFriends": ["Broccoli", "Cauliflower"],
         "insectFriends": ["Grasshopers", "Butterflies"]
-    },
-    {
-        "id": 16,
-        "myZone": 6
     }
-
 ]
