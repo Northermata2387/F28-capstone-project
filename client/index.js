@@ -1,8 +1,10 @@
 
 const baseURL = 'http://localhost:6235'
 
-// Returns the first Element within the document that matches the specified selector
+// Return Element within the document that matches the query selector
 const showPlants = document.querySelector('#plantDisplay')
+// Return Element within the document that matches the query selector
+const addButton = document.querySelector('#addPlant')
 
 // Axios request to GET array for plant cards
 const getAllPlants = () => {
@@ -70,14 +72,14 @@ const updateMyZone = (id, type) => {
 
 // Axios request to add new plant to main plants list
 const addPlant = () => {
-    let nameInput = document.querySelector('nameInput')
-    let typeInput = document.querySelector('typeInput')
-    let familyInput = document.querySelector('familyInput')
-    let zoneInput = document.querySelector('zoneInput')
-    let sunInput = document.querySelector('sunInput')
-    let plantFriendInput = document.querySelector('plantFriendInput')
-    let insectFriendInput = document.querySelector('insectFriendInput')
-    let imageInput = document.querySelector('imageInpu')
+    let nameInput = document.querySelector('#nameInput')
+    let typeInput = document.querySelector('#typeInput')
+    let familyInput = document.querySelector('#familyInput')
+    let zoneInput = document.querySelector('#zoneInput')
+    let sunInput = document.querySelector('#sunInput')
+    let plantFriendInput = document.querySelector('#plantFriendInput')
+    let insectFriendInput = document.querySelector('#insectFriendInput')
+    let imageInput = document.querySelector('#imageInput')
 
     let newPlant = {
         name: nameInput.value,
@@ -89,6 +91,7 @@ const addPlant = () => {
         insectFriends: insectFriendInput.value,
         image: imageInput.value
     }
+
     axios.post(`${baseURL}/addPlant`, newPlant)
         .then((res) => {
             showPlants.innerHTML = ''
@@ -107,6 +110,9 @@ const addPlant = () => {
             console.log(err)
         })
 }
+
+// event listener for add new plant
+addButton.addEventListener('click', addPlant)
 
 
 
