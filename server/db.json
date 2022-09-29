@@ -2,7 +2,7 @@
     {
         "id": 1,
         "name": "Rocky Mountain Columbine", 
-        "image": "www.gardenia.net/storage/app/public/uploads/images/detail/botanikfoto-473010-L.webp",
+        "image": "https://cdn.shopify.com/s/files/1/0620/2749/7724/products/columbine-blue-shk-1.jpg?v=1653062154",
         "type": "Perennial", 
         "family": "Ranunculus",
         "zones": "3 to 8",
@@ -13,7 +13,7 @@
     {
         "id": 2,
         "name": "Russian Sage", 
-        "image": "www.bluestoneperennials.com/img/PEBJ/650/PEBJ_0_Perovskia_Blue_Jean_Baby1_wg.1544110011.jpg",
+        "image": "https://cdn.shopify.com/s/files/1/0062/8532/8445/products/Russian-Sage_2_BB.jpg?v=1651170334&width=1000",
         "type": "Perennial", 
         "family": "Mint",
         "zones": "4 to 9",
@@ -24,7 +24,7 @@
     {
         "id": 3,
         "name": "Yellow Alyssum", 
-        "image": "gardenerspath.com/wp-content/uploads/2022/03/Mountain-Alyssum-Growing-in-Bright-Sunshine-Feature.jpg",
+        "image": "https://cdn.shopify.com/s/files/1/0620/2749/7724/products/alyssum-basket-of-gold-gap-1.jpg?v=1652731794",
         "type": "Perennial", 
         "family": "Brassicaceae",
         "zones": "3 to 7",
@@ -35,7 +35,7 @@
     {
         "id": 4,
         "name": "Bronze Fennel", 
-        "image": "cdn.shopify.com/s/files/1/0249/6134/products/bronze_fennel_429x600.jpg?v=1637882013",
+        "image": "https://m.media-amazon.com/images/I/610i76KhTkL._AC_.jpg",
         "type": "Perennial", 
         "family": "Umbellifer",
         "zones": "5 to 11",
@@ -46,7 +46,7 @@
     {
         "id": 5,
         "name": "Zinnia", 
-        "image": "www.americanmeadows.com/media/catalog/product/z/i/zinnia-dahlia-flowered-meadow_1_1.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=&width=",
+        "image": "https://h2.commercev3.net/cdn.gurneys.com/images/500/71321.jpg",
         "type": "Annual", 
         "family": "Daisy",
         "zones": "3 to 10",
@@ -57,7 +57,7 @@
     {
         "id": 6,
         "name": "Canada Goldenrod", 
-        "image": "www.picturethisai.com/wiki-image/1080/153846660592566302.jpeg",
+        "image": "https://www.picturethisai.com/wiki-image/1080/153846660592566302.jpeg",
         "type": "Perennial", 
         "family": "Daisy",
         "zones": "3 to 9",
@@ -68,7 +68,7 @@
     {
         "id": 7,
         "name": "Black-eyed Susan", 
-        "image": "cdn.shopify.com/s/files/1/0212/1030/0480/products/21.jpg?v=1659465163",
+        "image": "https://cdn.shopify.com/s/files/1/0212/1030/0480/products/21.jpg?v=1659465163",
         "type": "Perennial", 
         "family": "Daisy",
         "zones": "3 to 9",
@@ -79,7 +79,7 @@
     {
         "id": 8,
         "name": "Wax Currant", 
-        "image": "lh3.googleusercontent.com/Nr3UcAc37ze9OsKE0YFNGUMSBHpHbZoafNFSYqZyUqUuQOxOTivCglJspVanGIAJxEtAgmZEMU5evSIRSmU=s580",
+        "image": "https://lh3.googleusercontent.com/Nr3UcAc37ze9OsKE0YFNGUMSBHpHbZoafNFSYqZyUqUuQOxOTivCglJspVanGIAJxEtAgmZEMU5evSIRSmU=s580",
         "type": "Shrub", 
         "family": "Grossulariaceae",
         "zones": "5 to 8",
@@ -90,7 +90,7 @@
     {
         "id": 9,
         "name": "Chokecherry", 
-        "image": "i1.wp.com/practicalselfreliance.com/wp-content/uploads/2018/09/Foraging-for-Chokecherries-2-of-5.jpg?resize=600%2C438&ssl=1",
+        "image": "https://i1.wp.com/practicalselfreliance.com/wp-content/uploads/2018/09/Foraging-for-Chokecherries-2-of-5.jpg?resize=600%2C438&ssl=1",
         "type": "Perennial", 
         "family": "Rose",
         "zones": "2 to 7",
@@ -101,7 +101,7 @@
     {
         "id": 10,
         "name": "Three-leaf Sumac", 
-        "image": "wyomingplantcompany.com/wp-content/uploads/2014/01/Rhus-trilobata-Matt-Lavin.jpg",
+        "image": "https://wyomingplantcompany.com/wp-content/uploads/2014/01/Rhus-trilobata-Matt-Lavin.jpg",
         "type": "Shrub", 
         "family": "Anacardiaceae",
         "zones": "4 to 8",
@@ -112,7 +112,7 @@
     {
         "id": 11,
         "name": "Prairie Coneflower", 
-        "image": "www.americanmeadows.com/media/catalog/product/r/a/ratibida-pinnata-1.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=560&width=560&canvas=560:560",
+        "image": "https://www.americanmeadows.com/media/catalog/product/r/a/ratibida-pinnata-1.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=560&width=560&canvas=560:560",
         "type": "Perennial", 
         "family": "Aster",
         "zones": "4 to 8",
@@ -123,7 +123,7 @@
     {
         "id": 12,
         "name": "Bee Balm", 
-        "image": "www.almanac.com/sites/default/files/users/AlmanacStaffArchive/bee-balm-2413963_1920_full_width.jpg",
+        "image": "https://www.almanac.com/sites/default/files/users/AlmanacStaffArchive/bee-balm-2413963_1920_full_width.jpg",
         "type": "Perennial", 
         "family": "Mint",
         "zones": "3 to 9",
@@ -134,7 +134,7 @@
     {
         "id": 13,
         "name": "Purple Prairie Clover", 
-        "image": "upload.wikimedia.org/wikipedia/commons/2/2e/Dalea_purpurea_Arkansas.jpg",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Dalea_purpurea_Arkansas.jpg",
         "type": "Perennial", 
         "family": "Legume",
         "zones": "3 to 8",
@@ -145,7 +145,7 @@
     {
         "id": 14,
         "name": "Showy Milkweed", 
-        "image": "www.everwilde.com/media/1000/Asclepias-speciosa-01.gif",
+        "image": "https://www.everwilde.com/media/1000/Asclepias-speciosa-01.gif",
         "type": "Perennial", 
         "family": "Dogbane",
         "zones": "4 to 9",
@@ -156,7 +156,7 @@
     {
         "id": 15,
         "name": "Prairie Sage", 
-        "image": "www.everwilde.com/media//1000/resized/Artemisia-ludoviciana-01_medium.gif",
+        "image": "https://www.everwilde.com/media//1000/resized/Artemisia-ludoviciana-01_medium.gif",
         "type": "Perennial", 
         "family": "Daisy",
         "zones": "4 to 8",

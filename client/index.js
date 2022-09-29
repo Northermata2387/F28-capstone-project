@@ -34,8 +34,23 @@ const createPlantCard = (plant) => {
     plantCard.classList.add('plant-card')
 
     plantCard.innerHTML = `
-        <button onclick="deletePlant(${plant.id})">
-        <img src=${plant.image} alt='plant image'/>
+        <button onclick="deletePlant(${plant.id})"
+        style="
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            padding: 5px;
+            width: 175px;
+        ">
+        <img src=${plant.image} alt='plant image'
+        style="
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            padding: 5px;
+            width: 150px;
+            height: 150px;
+            object-fit: cover;
+        "
+        />
         <p>${plant.name}</p>
         <p>${plant.type}</p>
         <p>${plant.zones}</p>

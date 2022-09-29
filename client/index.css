@@ -1,0 +1,28 @@
+.my-plant-list-banner {
+    display: flex;
+    gap: 33%;
+    flex-direction: row;
+    flex-wrap: wrap;
+    height: ;
+  }
+
+.submit-new-plant {
+    display: flex;
+    gap: 20px;
+    flex-direction: row;
+    flex-wrap: wrap;
+  }
+
+.main-plant-card {
+    display: flex;
+    gap: 20px;
+    flex-direction: row;
+    flex-wrap: wrap;
+  }
+
+.footer-details {
+    display: flex;
+    gap: 5px;
+    flex-direction: row;
+    flex-wrap: wrap;
+  }
