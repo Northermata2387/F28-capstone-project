@@ -11,7 +11,7 @@ const addMyPlantListBtn = document.querySelector('#addMyPlantList');
 const searchBar = document.getElementById('searchBarInput');
 
 // epmty array for esearch funtion
-let plantCardName = [];
+let plantCardSearch = [];
 
 // Axios request to GET array for plant cards
 const getAllPlants = () => {
