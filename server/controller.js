@@ -19,18 +19,18 @@ module.exports = {
     // POST to add new plants to the data set
     addPlant:  (req, res) => {
 
-        const{name, image, type, zones, sun, plantFriends, insectFriends, myZone} = req.body
+        const{name, image, type, family, zones, sun, plantFriends, insectFriends} = req.body
 
         let newPlantObject = {
             id: plantId,
             name: name,
             image: image,
             type: type,
+            family: family,
             zones: zones,
             sun: sun,
             plantFriends: plantFriends,
-            insectFriends: insectFriends,
-            myZone: myZone
+            insectFriends: insectFriends
         }
 
         plants.push(newPlantObject)

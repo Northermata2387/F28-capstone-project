@@ -8,43 +8,58 @@
     <link rel="stylesheet" href="./index.css" />
   </head>
   <body>
-    <!-- NavBar -->
+    <!-- Navigation Bar here -->
     <div class="plant-top">
       <div class="plant-bar plant-theme plant-top plant-left-align plant-large">
         <button>Logo/My Plant List</button>
         <br>
         <br>
         <form >
-            <input type="text" name="searchbar" placeholder="Search.." size="70">
+            <input id='searchBarInput' placeholder="Search..">
         </form>
         <br>
         <button>PLANTS</button>
       </div>
     </div>
 
-    <!-- My Plant List -->
+    <!-- My Plant List here -->
       </a>
       <h4 class="myPlantList-header"><b>My Plant List</b></h4>
       <button>Start new list</button>
+      <!-- <section>
+        <button onclick="updateMyZone(${plant.id, 'hotter'})"></button>
+        0
+        <button onclick="updateMyZone(${plant.id, 'colder'})"></button>
+      </section> -->
     <main>
         <section id="myPlantListDisplay">Plant 1</section>
     </main>
     <br>
     <br>
 
-    <!-- Submit new plant here here -->
+    <!-- Submit new plant here -->
     <main>
-        <section>submit form</section>
+        <section id="addNewPlant"></section>
+        <h3>Add a new plant to the site!</h3>
+        <input id='nameInput' placeholder='Name of plant'>
+        <input id='typeInput' placeholder='Type of plant'>
+        <input id='familyInput' placeholder='Plant Family'>
+        <input id='zoneInput' placeholder='Hardiness Zones'>
+        <input id='sunInput' placeholder='How much sun?'>
+        <input id='plantFriendInput' placeholder='Companion Plants'>
+        <input id='insectFriendInput' placeholder='Insects'>
+        <input id='imageInput' placeholder='Image URL'>
+        <button id="addPlant">Submit</button>
     </main>
     <br>
     <br>
 
-    <!-- All Plants listed here -->
+    <!-- Main Plants list here -->
     <main>
         <section id="plantDisplay"></section>
     </main>
 
-      <!-- Footer for additional details -->
+      <!-- Footer additional details -->
       <footer id="myFooter">
         <div class="plant-container plant-theme-l2 plant-padding-32">
           <p>© Copyright 2022 My Plant List, LLC. All rights reserved.</p>
