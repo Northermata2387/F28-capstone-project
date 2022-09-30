@@ -8,22 +8,22 @@ const addButton = document.querySelector('#addPlant');
 // Return add new plant within the document that matches the query selector
 const addMyPlantListBtn = document.querySelector('#addMyPlantList');
 // Return add new plant within the document that matches the query selector
-const searchBar = document.getElementById('searchBarInput');
+// const searchBar = document.getElementById('searchBarInput');
 
-// empty array for esearch funtion
-let myPlantListDisplay = [];
-console.log(searchBar);
+// // empty array for search funtion
+// let myPlantListDisplay = [];
+// console.log(searchBar);
 
 // event listener for searchbar
-searchBar.addEventListener('keyup', (e) => {
-    const searchString = e.target.value;
-    const filteredPlants = myPlantListDisplay.filter((plant) => {
-        return (
-            plant.name.includes(searchString)
-        );
-    });
-    console.log(filteredPlants);
-});
+// searchBar.addEventListener('keyup', (e) => {
+//     const searchString = e.target.value;
+//     const filteredPlants = myPlantListDisplay.filter((plant) => {
+//         return (
+//             plant.name.includes(searchString)
+//         );
+//     });
+//     console.log(filteredPlants);
+// });
 
 // Axios request to GET array for plant cards
 const getAllPlants = () => {

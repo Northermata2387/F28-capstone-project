@@ -18,7 +18,7 @@
         "family": "Mint",
         "zones": "4 to 9",
         "sun": "Full sun",
-        "plantFriends": ["Coneflower", "Globe thistle"],
+        "plantFriends": ["Coneflower", " Globe thistle"],
         "insectFriends": ["Bees"]
     },
     {
@@ -29,8 +29,8 @@
         "family": "Brassicaceae",
         "zones": "3 to 7",
         "sun": "Full sun",
-        "plantFriends": ["Potatoes", "Broccoli"],
-        "insectFriends": ["Pirate bugs", "Parasitic wasps", "Hover flies"]
+        "plantFriends": ["Potatoes", " Broccoli"],
+        "insectFriends": ["Pirate bugs", " Parasitic wasps"]
     },
     {
         "id": 4,
@@ -40,8 +40,8 @@
         "family": "Umbellifer",
         "zones": "5 to 11",
         "sun": "Full sun",
-        "plantFriends": ["Dill", "Tomato", "Basil"],
-        "insectFriends": ["Aphids", "Cutworm", "Armyworm"]
+        "plantFriends": ["Dill", " Tomato", " Basil"],
+        "insectFriends": ["Aphids", " Cutworm", " Armyworm"]
     },
     {
         "id": 5,
@@ -51,8 +51,8 @@
         "family": "Daisy",
         "zones": "3 to 10",
         "sun": "Full sun",
-        "plantFriends": ["Tomato", "Pepper"],
-        "insectFriends": ["Aphids", "Caterpillars", "Slugs"]
+        "plantFriends": ["Tomato", " Pepper"],
+        "insectFriends": ["Aphids", " Caterpillars", " Slugs"]
     },
     {
         "id": 6,
@@ -62,8 +62,8 @@
         "family": "Daisy",
         "zones": "3 to 9",
         "sun": "Full sun",
-        "plantFriends": ["Sunflowers", "Coneflowers", "Salvias"],
-        "insectFriends": ["Beetles", "Flies", "Bees"]
+        "plantFriends": ["Sunflowers", " Coneflowers"],
+        "insectFriends": ["Beetles", " Flies", " Bees"]
     },
     {
         "id": 7,
@@ -73,7 +73,7 @@
         "family": "Daisy",
         "zones": "3 to 9",
         "sun": "Full sun",
-        "plantFriends": ["Zinnias", "Echinacea", "Hibiscus"],
+        "plantFriends": ["Echinacea", " Hibiscus"],
         "insectFriends": ["Jagged ambush bugs"]
     },
     {
@@ -84,8 +84,8 @@
         "family": "Rose",
         "zones": "2 to 7",
         "sun": "Sun/part shade",
-        "plantFriends": ["Sassafras", "Staghorn sumac", "Goldenrod"],
-        "insectFriends": ["Caterpillar", "Aphids"]
+        "plantFriends": ["Sassafras", " Goldenrod"],
+        "insectFriends": ["Caterpillar", " Aphids"]
     },
     {
         "id": 12,
@@ -95,7 +95,7 @@
         "family": "Mint",
         "zones": "3 to 9",
         "sun": "Full sun",
-        "plantFriends": ["Squash", "Tomatoes", "Roses"],
-        "insectFriends": ["Bumblebee", "Butterflies"]
+        "plantFriends": ["Squash", " Tomatoes", " Roses"],
+        "insectFriends": ["Bumblebee", " Butterflies"]
     }
 ]
