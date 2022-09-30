@@ -44,11 +44,11 @@ button {
     transition: transform 1s;
 }
 
-/* button:hover {
+button:hover {
     background-color:#FFA928;
     transition: 0.5s;
     border: 0;
-} */
+}
 
 button:active {
     transform-origin: center;

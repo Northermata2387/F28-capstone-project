@@ -49,11 +49,11 @@ const createPlantCard = (plant) => {
         >
         <img src=${plant.image} alt='plant image'
         style="
-            width: 169px;
-            height: 156px;
+            width: 160px;
+            height: 140px;
             object-fit: cover;
             border-radius: 5px;
-            margin: 0px;
+            margin-top: 5px;
         "
         />
         <p>${plant.name}</p>
