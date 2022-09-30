@@ -7,8 +7,8 @@
         "family": "Ranunculus",
         "zones": "3 to 8",
         "sun": "Sun/part shade",
-        "plantFriends": ["Allium", "Daylily", "Foxglove"],
-        "insectFriends": ["Sawfly", "Caterpiller", "Aphid"]
+        "plantFriends": ["Allium"," Daylily"," Foxglove"],
+        "insectFriends": ["Sawfly", " Caterpiller", " Aphid"]
     },
     {
         "id": 2,
@@ -86,17 +86,6 @@
         "sun": "Sun/part shade",
         "plantFriends": ["Sassafras", "Staghorn sumac", "Goldenrod"],
         "insectFriends": ["Caterpillar", "Aphids"]
-    },
-    {
-        "id": 11,
-        "name": "Prairie Coneflower", 
-        "image": "https://www.americanmeadows.com/media/catalog/product/r/a/ratibida-pinnata-1.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=560&width=560&canvas=560:560",
-        "type": "Perennial", 
-        "family": "Aster",
-        "zones": "4 to 8",
-        "sun": "Full sun",
-        "plantFriends": ["Lavender", "Oregano", "Goldenrod"],
-        "insectFriends": ["Leaf beetles", "Japanese beetles", "Fruit flies"]
     },
     {
         "id": 12,

@@ -55,14 +55,19 @@ const createPlantCard = (plant) => {
     plantCard.innerHTML = `
         <button onclick="deletePlant(${plant.id})"
         style="
-            width: 175px;
-            height: 250px;
+            width: 200px;
+            height: 255px;
             border: 0;
+            font-size: 8pt;
+            line-height: 30%;
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            color: #F6FFEF;
+            font-weight: 600;
         "
         >
         <img src=${plant.image} alt='plant image'
         style="
-            width: 160px;
+            width: 188px;
             height: 140px;
             object-fit: cover;
             border-radius: 5px;
@@ -70,8 +75,12 @@ const createPlantCard = (plant) => {
         "
         />
         <p>${plant.name}</p>
-        <p>${plant.type}</p>
-        <p>${plant.zones}</p>
+        <p>Type: ${plant.type}</p>
+        <p>Family: ${plant.family}</p>
+        <p>Zones ${plant.zones}</p>
+        <p>${plant.sun}</p>
+        <p>Plant Friends: ${plant.plantFriends}</p>
+        <p>Insects: ${plant.insectFriends}</p>
         </button>
     `
     showPlants.appendChild(plantCard)
