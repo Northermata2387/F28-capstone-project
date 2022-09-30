@@ -77,7 +77,7 @@ const createPlantCard = (plant) => {
         <p>${plant.name}</p>
         <p>Type: ${plant.type}</p>
         <p>Family: ${plant.family}</p>
-        <p>Zones ${plant.zones}</p>
+        <p>Zones: ${plant.zones}</p>
         <p>${plant.sun}</p>
         <p>Plant Friends: ${plant.plantFriends}</p>
         <p>Insects: ${plant.insectFriends}</p>
