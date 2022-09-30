@@ -10,8 +10,20 @@ const addMyPlantListBtn = document.querySelector('#addMyPlantList');
 // Return add new plant within the document that matches the query selector
 const searchBar = document.getElementById('searchBarInput');
 
-// epmty array for esearch funtion
-let plantCardSearch = [];
+// empty array for esearch funtion
+let myPlantListDisplay = [];
+console.log(searchBar);
+
+// event listener for searchbar
+searchBar.addEventListener('keyup', (e) => {
+    const searchString = e.target.value;
+    const filteredPlants = myPlantListDisplay.filter((plant) => {
+        return (
+            plant.name.includes(searchString)
+        );
+    });
+    console.log(filteredPlants);
+});
 
 // Axios request to GET array for plant cards
 const getAllPlants = () => {
@@ -44,6 +56,7 @@ const createPlantCard = (plant) => {
         <button onclick="deletePlant(${plant.id})"
         style="
             width: 175px;
+            height: 250px;
             border: 0;
         "
         >
@@ -133,11 +146,6 @@ const addPlant = () => {
 
 // event listener for add new plant
 addButton.addEventListener('click', addPlant);
-
-// event listener for searchbar
-searchBar.addEventListener('keyup', (e) => {
-    console.log(e.target.value)
-});
 
 
 

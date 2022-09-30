@@ -77,17 +77,6 @@
         "insectFriends": ["Jagged ambush bugs"]
     },
     {
-        "id": 8,
-        "name": "Wax Currant", 
-        "image": "https://lh3.googleusercontent.com/Nr3UcAc37ze9OsKE0YFNGUMSBHpHbZoafNFSYqZyUqUuQOxOTivCglJspVanGIAJxEtAgmZEMU5evSIRSmU=s580",
-        "type": "Shrub", 
-        "family": "Grossulariaceae",
-        "zones": "5 to 8",
-        "sun": "Sun/part shade",
-        "plantFriends": ["Chamomile", "Chives", "Marigolds"],
-        "insectFriends": ["Currant worm", "Fruit flies"]
-    },
-    {
         "id": 9,
         "name": "Chokecherry", 
         "image": "https://i1.wp.com/practicalselfreliance.com/wp-content/uploads/2018/09/Foraging-for-Chokecherries-2-of-5.jpg?resize=600%2C438&ssl=1",
@@ -97,17 +86,6 @@
         "sun": "Sun/part shade",
         "plantFriends": ["Sassafras", "Staghorn sumac", "Goldenrod"],
         "insectFriends": ["Caterpillar", "Aphids"]
-    },
-    {
-        "id": 10,
-        "name": "Three-leaf Sumac", 
-        "image": "https://wyomingplantcompany.com/wp-content/uploads/2014/01/Rhus-trilobata-Matt-Lavin.jpg",
-        "type": "Shrub", 
-        "family": "Anacardiaceae",
-        "zones": "4 to 8",
-        "sun": "Full sun",
-        "plantFriends": ["Sumac", "Redbud", "Wild plum", "Ninebark"],
-        "insectFriends": ["Butterflies", "Moths", "Caterpillars"]
     },
     {
         "id": 11,
@@ -130,38 +108,5 @@
         "sun": "Full sun",
         "plantFriends": ["Squash", "Tomatoes", "Roses"],
         "insectFriends": ["Bumblebee", "Butterflies"]
-    },
-    {
-        "id": 13,
-        "name": "Purple Prairie Clover", 
-        "image": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Dalea_purpurea_Arkansas.jpg",
-        "type": "Perennial", 
-        "family": "Legume",
-        "zones": "3 to 8",
-        "sun": "Full sun",
-        "plantFriends": ["Leadplant", "Thimbleweed", "milkweed"],
-        "insectFriends": ["Bees", "Butterflies"]
-    },
-    {
-        "id": 14,
-        "name": "Showy Milkweed", 
-        "image": "https://www.everwilde.com/media/1000/Asclepias-speciosa-01.gif",
-        "type": "Perennial", 
-        "family": "Dogbane",
-        "zones": "4 to 9",
-        "sun": "Sun/part sun",
-        "plantFriends": ["Verbena", "Blue Tweedia"],
-        "insectFriends": ["Monarch Butterflies"]
-    },
-    {
-        "id": 15,
-        "name": "Prairie Sage", 
-        "image": "https://www.everwilde.com/media//1000/resized/Artemisia-ludoviciana-01_medium.gif",
-        "type": "Perennial", 
-        "family": "Daisy",
-        "zones": "4 to 8",
-        "sun": "Full sun",
-        "plantFriends": ["Broccoli", "Cauliflower"],
-        "insectFriends": ["Grasshopers", "Butterflies"]
     }
 ]
