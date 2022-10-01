@@ -21,7 +21,7 @@ Front End
 app includes 1+ additional view(s)
 [styling includes flexbox]
 at least 1 view is responsive
-styling includes animations
+[styling includes animations]
 
 Server
 [app includes a GET endpoint and handler function *]
