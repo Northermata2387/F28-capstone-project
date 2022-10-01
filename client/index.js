@@ -62,6 +62,8 @@ const createPlantCard = (plant) => {
             line-height: 30%;
             font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
             color: #F6FFEF;
+            text-shadow: 1px 1px 4px #000000;
+            box-shadow: 2px 2px 2px #a1a1a1;
         "
         >
         <img src=${plant.image} alt='plant image'
