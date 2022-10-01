@@ -62,7 +62,6 @@ const createPlantCard = (plant) => {
             line-height: 30%;
             font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
             color: #F6FFEF;
-            font-weight: 600;
         "
         >
         <img src=${plant.image} alt='plant image'
@@ -74,7 +73,7 @@ const createPlantCard = (plant) => {
             margin-top: 5px;
         "
         />
-        <p>${plant.name}</p>
+        <p class="plant-card-name">${plant.name}</p>
         <p>Type: ${plant.type}</p>
         <p>Family: ${plant.family}</p>
         <p>Zones: ${plant.zones}</p>
