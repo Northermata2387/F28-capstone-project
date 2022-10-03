@@ -25,7 +25,7 @@ My Plant List is not deployed at this time. Please see the instrucitons below to
 </li>
 <li>Run Server
     <ul>
-      <li>Right click on index.html and OPen with Live Server</li>
+      <li>Right click on index.html and Open with Live Server</li>
     </ul>
 </li>
 </ul>
@@ -35,11 +35,11 @@ Begin by deleting any plants you do not want part of your list. You can delet an
 
 ![My Plant List delete image](/images/README-images/02-delete.JPG "My Plant List delete image")
 
-Then using the form on the left you can start adding plants to your list. The new plant should include a Name, Type, Family, Zone, Sun needs, Companion Plants, Insects to watch out for, and a URL image address you woudl like to use.
+Then using the form on the left you can start adding plants to your list. The new plant should include a Name, Type, Family, Zone, Sun needs, Companion Plants, Insects to watch out for, and a URL image address you woudl like to use. Click the submit buttom when ready to add the new plant to your list.
 
 ![My Plant List input image](/images/README-images/03-inputs.JPG "My Plant List input image")
 
-Once you have your plants added to the site you can print, take a screen shot, or open the page with you when the site is hosted.
+Once you have your plants added to the site you can print, take a screen shot for on the go use.
 
 ![My Plant List live image](/images/README-images/04-live.JPG "My Plant List live image")
 
