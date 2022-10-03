@@ -35,7 +35,7 @@ Begin by deleting any plants you do not want part of your list. You can delet an
 
 ![My Plant List delete image](/images/README-images/02-delete.JPG "My Plant List delete image")
 
-Then using the form on the left you can start adding plants to your list. The new plant should include a Name, Type, Family, Zone, Sun needs, Companion Plants, Insects to watch out for, and a URL image address you woudl like to use. Click the submit buttom when ready to add the new plant to your list.
+Then using the form on the left you can start adding plants to your list. The new plant should include a Name, Type, Family, Zone, Sun needs, Companion Plants, Insects to watch out for, and a URL image address you woudl like to use. Click the "Add Ne Plant!" buttom when ready to add the new plant to your list.
 
 ![My Plant List input image](/images/README-images/03-inputs.JPG "My Plant List input image")
 
