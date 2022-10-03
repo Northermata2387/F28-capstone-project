@@ -10,11 +10,11 @@ const addMyPlantListBtn = document.querySelector('#addMyPlantList');
 // Return add new plant within the document that matches the query selector
 // const searchBar = document.getElementById('searchBarInput');
 
-// // empty array for search funtion
+// empty array for search function
 // let myPlantListDisplay = [];
 // console.log(searchBar);
 
-// event listener for searchbar
+// Event listener for searchbar
 // searchBar.addEventListener('keyup', (e) => {
 //     const searchString = e.target.value;
 //     const filteredPlants = myPlantListDisplay.filter((plant) => {
