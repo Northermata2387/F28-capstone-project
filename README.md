@@ -37,11 +37,11 @@ Begin by deleting any plants you do not want part of your list. You can delet an
 
 Then using the form on the left you can start adding plants to your list. The new plant should include a Name, Type, Family, Zone, Sun needs, Companion Plants, Insects to watch out for, and a URL image address you woudl like to use.
 
-![My Plant List input image](/images/README-images/03-inputs.JPG"My Plant List input image")
+![My Plant List input image](/images/README-images/03-inputs.JPG "My Plant List input image")
 
 Once you have your plants added to the site you can print, take a screen shot, or open the page with you when the site is hosted.
 
-![My Plant List live image](/images/README-images/04-live.JPG"My Plant List live image")
+![My Plant List live image](/images/README-images/04-live.JPG "My Plant List live image")
 
 Learn more about the developer:<br/>
 Mark Nakayama is a software engineer in Denver, CO<br/>
