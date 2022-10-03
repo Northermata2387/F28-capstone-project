@@ -53,28 +53,8 @@ const createPlantCard = (plant) => {
     plantCard.classList.add('plant-card')
 
     plantCard.innerHTML = `
-        <button onclick="deletePlant(${plant.id})"
-        style="
-            width: 200px;
-            height: 255px;
-            border: 0;
-            font-size: 8pt;
-            line-height: 30%;
-            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-            color: #F6FFEF;
-            text-shadow: 1px 1px 4px #000000;
-            box-shadow: 2px 2px 2px #a1a1a1;
-        "
-        >
-        <img src=${plant.image} alt='plant image'
-        style="
-            width: 188px;
-            height: 140px;
-            object-fit: cover;
-            border-radius: 5px;
-            margin-top: 5px;
-        "
-        />
+        <button class="inner-html-plant-card" ondblclick="deletePlant(${plant.id})">
+        <img class="inner-html-image" src=${plant.image} alt='plant image'/>
         <p class="plant-card-name">${plant.name}</p>
         <p>Type: ${plant.type}</p>
         <p>Family: ${plant.family}</p>
