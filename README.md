@@ -1,13 +1,12 @@
 <h2>My Plant List</h2>
 
-Learn more about the developer:
-Mark Nakayama is a software engineer in Denver, CO
+Learn more about the developer:<br/>
+Mark Nakayama is a software engineer in Denver, CO<br/>
 https://www.linkedin.com/in/mark-nakayama-16b004116/
 
-(description) <br/>
-My Plant List is a fullstack web application designed for
+My Plant List is a fullstack web application designed to create a personal list of plants for hobbyist and professionals to use for gardening or landscaping projects.
 
-(image)
+![My Plant List image](/README-images/01-site-img.JPG "My Plant List image")
 
 <h2>Technologies:</h2>
 Node.js | Javascript | HTML/CSS | API | db.json | Cors | Express
@@ -19,8 +18,8 @@ My Plant List is not deployed at this time. Please see the instrucitons below to
 <ul>
   <li>Setup dependencies
     <ul>
-      <li>Indented item</li>
-      <li>Indented item</li>
+      <li>run npm i</li>
+      <li>run npm i cors express</li>
     </ul>
 </li>
 </ul>
