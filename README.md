@@ -4,7 +4,7 @@ Learn more about the developer:
 Mark Nakayama is a software engineer in Denver, CO
 https://www.linkedin.com/in/mark-nakayama-16b004116/
 
-(description)
+(description) <br/>
 My Plant List is a fullstack web application designed for
 
 (image)
@@ -12,7 +12,7 @@ My Plant List is a fullstack web application designed for
 <h2>Technologies:</h2>
 Node.js | Javascript | HTML/CSS | API | db.json | Cors | Express
 
-<h2>How to locally run My Plant List</h2>
+<h2>How to locally run My Plant List:</h2>
 
 My Plant List is not deployed at this time. Please see the instrucitons below to run the application locally on your machine.
 
@@ -24,6 +24,6 @@ My Plant List is not deployed at this time. Please see the instrucitons below to
   <li>Fourth item</li>
 </ul>
 
-<h2>How to use My Plant List</h2>
+<h2>How to use My Plant List:</h2>
 
 -
