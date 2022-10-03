@@ -9,7 +9,7 @@ Node.js | Javascript | HTML/CSS | API | db.json | Cors | Express
 
 <h2>How to locally run My Plant List:</h2>
 
-My Plant List is not deployed at this time. Please see the instrucitons below to run the application locally on your machine.
+My Plant List is not deployed at this time. Please see the instructions below to run the application locally on your machine.
 
 <ul>
   <li>Setup Dependencies
@@ -39,7 +39,7 @@ Then using the form on the left you can start adding plants to your list. The ne
 
 ![My Plant List input image](/images/README-images/03-inputs.JPG "My Plant List input image")
 
-Once you have your plants added to the site you can print, take a screen shot for on the go use.
+Once you have your plants added to the site you can print or take a screen shot for on the go use.
 
 ![My Plant List live image](/images/README-images/04-live.JPG "My Plant List live image")
 
