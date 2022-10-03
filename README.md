@@ -1,6 +1,6 @@
 <h2>My Plant List</h2>
 
-My Plant List is a fullstack web application designed to create a personal list of plants for hobbyist and professionals to use for gardening or landscaping projects. Using a db.json for example plant information a user can fill in a form to create cards with plant details to put together a combination of plants for an upcoming project.
+My Plant List is a fullstack web application designed to create a personal list of plants for hobbyist and professionals to use for gardening or landscaping projects. A db.json was used to generate example plant information for the users reference. A user can fill in the provided form to create cards with plant details and use the newly created list of plants for upcoming projects.
 
 ![My Plant List image](/images/README-images/01-site-img.JPG "My Plant List image")
 
