@@ -95,6 +95,7 @@ body {
   margin-top: 5px;
 }
 
+
 .submit-button {
   width: 80%;
   padding: 4px 16px;
@@ -150,15 +151,22 @@ body {
 }
 
 .copyright-block {
-  margin-top: 25px;
+  margin-top: 20px;
+  line-height: 14pt;
 }
 
 .about-us-block {
-  margin-top: 2px;
+  margin-top: 10px;
+  line-height: 14pt;
+}
+
+.contact-block {
+  line-height: 13pt
 }
 
 .disclosure-block {
   margin-top: 18px;
+  line-height: 14pt;
 }
 
 button {
