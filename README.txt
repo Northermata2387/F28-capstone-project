@@ -1,41 +1,27 @@
-Your GitHub Presence
-Write a README
-Great projects deserve a great README!
+My Plant List
 
-It’s like your repository’s homepage
+Learn more about the developer: 
+Mark Nakayama is a software engineer in Denver, CO
+https://www.linkedin.com/in/mark-nakayama-16b004116/
 
-Communicate info you won’t have time for in person
 
-What Goes in it?
-Project description
+(description)
+My Plant List is a fullstack web application designed for 
 
-Tech stack
+(image)
 
-Features
+Technologies:
 
-Screenshots
+Node.js | Javascript | HTML/CSS | API | db.json | Cors | Express
 
-Maybe: instruction on how to install
 
-README How To
-Make a file, README.txt, at the root of your project repo
+How to locally run My Plant List
 
-Edit, commit, and push as usual — it shows up automatically as homepage
+My Plant List is not deployed at this time. Please see the instrucitons below to run the application locally on your machine.
 
-Fancier: use Markdown for prettier-formatted README
+Setup dependencies
+-  
 
-Name the file README.md instead
 
-Markdown Cheat Sheet
+How to use My Plant List
 
-Resources for READMEs
-
-Here are some READMEs from previous cohorts:
-
-There & Back Again
-
-MoodMap
-
-Vamanos
-
-To see how they did something, view the code by clicking Raw on the header at the top of the file.
