@@ -1,4 +1,4 @@
-My Plant List
+<h1>My Plant List</h1>
 
 Learn more about the developer:
 Mark Nakayama is a software engineer in Denver, CO
@@ -9,7 +9,7 @@ My Plant List is a fullstack web application designed for
 
 (image)
 
-Technologies:
+- Technologies:
 
 Node.js | Javascript | HTML/CSS | API | db.json | Cors | Express
 
