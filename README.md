@@ -16,11 +16,13 @@ Node.js | Javascript | HTML/CSS | API | db.json | Cors | Express
 
 My Plant List is not deployed at this time. Please see the instrucitons below to run the application locally on your machine.
 
-<ul>Setup dependencies
-  <li>first item</li>
-  <li>Second item</li>
-  <li>Third item</li>
-  <li>Fourth item</li>
+<ul>
+  <li>Setup dependencies
+    <ul>
+      <li>Indented item</li>
+      <li>Indented item</li>
+    </ul>
+</li>
 </ul>
 
 <h2>How to use My Plant List:</h2>
