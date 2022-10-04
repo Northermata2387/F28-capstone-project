@@ -26,6 +26,7 @@ My Plant List is not deployed at this time. Please see the instructions below to
 <li>Run Server
     <ul>
       <li>Right click on index.html and Open with Live Server</li>
+      <li>OR right click on index.html, copy path, and paste into URL bar</li>
     </ul>
 </li>
 </ul>
