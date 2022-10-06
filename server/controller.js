@@ -3,13 +3,6 @@ const plants = require('./db.json')
 //create new id
 let plantId = 16
 
-
-//NOTES
-// GET: To retrieve a resource.
-// POST: To create a new resource.
-// PUT: To edit or update an existing resource.
-// DELETE: To delete a resource.
-
 module.exports = {
     // GET to retreive all plants through PLANTS button
     getPlants: (req, res) => {

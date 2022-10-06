@@ -7,14 +7,14 @@ const showPlants = document.querySelector('#plantDisplay');
 const addButton = document.querySelector('#addPlant');
 // Return add new plant within the document that matches the query selector
 const addMyPlantListBtn = document.querySelector('#addMyPlantList');
-// Return add new plant within the document that matches the query selector
+// // Return add new plant within the document that matches the query selector (Future Functionality In Progress)
 // const searchBar = document.getElementById('searchBarInput');
 
-// empty array for search function
+// // Empty array for search function (Future Functionality In Progress)
 // let myPlantListDisplay = [];
 // console.log(searchBar);
 
-// Event listener for searchbar
+// // Event listener for searchbar (Future Functionality In Progress)
 // searchBar.addEventListener('keyup', (e) => {
 //     const searchString = e.target.value;
 //     const filteredPlants = myPlantListDisplay.filter((plant) => {
